@@ -1,11 +1,11 @@
 // Initialize Firebase with your config
 const firebaseConfig = {
-    apiKey: "AIzaSyBhC1WLPtRY1ktegqwcrDc2VcoH8s5QRCM",
-    authDomain: "vrchat-76e4b.firebaseapp.com",
-    projectId: "vrchat-76e4b",
-    storageBucket: "vrchat-76e4b.appspot.com",
-    messagingSenderId: "85260620278",
-    appId: "1:85260620278:web:446b7063618e754e97f7d7"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
   
   firebase.initializeApp(firebaseConfig);
